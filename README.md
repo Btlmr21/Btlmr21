@@ -1,6 +1,7 @@
-# Hi 👋, I'm Betül Alumur
+# Hi 👋, I'm Betül Alumur                                                                                   
 ### Welcome to my Github profile! 🎉💚
-![ ](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2t3Z2E5emhlcTFyamczNGlhbWZjZWp2enNzMnF4MnIxdjkyZGIxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif)
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3B1Mm9zbW1lamdoZm1kbjdxeHI0cXNlZmI4OG04Mm9nbW1ycmZvZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" width="390" height="250" style="float: right; margin-left: 20px;"/>
 
 
 <!--
