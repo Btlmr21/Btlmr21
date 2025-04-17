@@ -1,5 +1,5 @@
-#Hi! I'm Betül ALUMUR 👋
-Welcome to my Github profile! 🎉
+# Hi 👋, I'm Betül Alumur
+Welcome to my Github profile! 🎉💚
 
 <!--
 **Btlmr21/Btlmr21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
