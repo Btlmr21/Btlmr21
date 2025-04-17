@@ -1,4 +1,4 @@
-## Hi! I'm Betül ALUMUR 👋
+#Hi! I'm Betül ALUMUR 👋
 Welcome to my Github profile! 🎉
 
 <!--
